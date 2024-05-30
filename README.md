@@ -1,7 +1,7 @@
 ## Olá, Guilherme Moreira por aqui... 👋
 
 - 🔭 Atualmente trabalhando com Frontend
-- 🌱 Estudando Typescript
+- 🌱 Atuando com Typescript, NextJS e Lambda Functions
 
 <div>
   <a href="https://github.com/gmoreiraDEV">
